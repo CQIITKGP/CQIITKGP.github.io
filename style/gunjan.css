@@ -208,11 +208,12 @@ body {
     font-size: 14px;
     font-family: 'Quicksand', sans-serif;
 }
+
 .bg2 {
     width: 100%;
-    height: calc( 20vh + 20vw); 
-    background: url('img/busy2.png'); 
-    background-attachment:fixed; 
+    height: calc( 20vh + 20vw);
+    background: url('img/busy2.png');
+    background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
 }
@@ -541,7 +542,6 @@ body {
   left : 50%;
   padding-top: 7%;
 }
-
 #practicearea .list1 ul li{
   font-size: 4vh;
   line-height: 500%;
@@ -553,17 +553,14 @@ body {
   left : 75%;
   padding-top: 7%;
 }
-
 #practicearea .list2 ul li{
   font-size: 4vh;
   line-height: 500%;
   color:#004d99;
 }
-
 ul.a{
   list-style-type: square;
 }
-
 ul.b{
   list-style-type: square;
 }*/
@@ -642,14 +639,12 @@ ul.b{
     }
     .bg2 {
         width: 100%;
-        height: calc( 20vh + 20vw); 
-        background-image: url('img/busy2.png'); 
-        background-attachment:fixed; 
+        height: calc( 20vh + 20vw);
+        background-image: url('img/busy2.png');
+        background-attachment: fixed;
         background-position: center;
         background-repeat: no-repeat;
     }
-  
-    
 }
 
 @media screen and (max-width:342px) {
@@ -1012,11 +1007,12 @@ hr {
         position: relative;
         left: -8%;
     }
-     .bg2{
-        background-size:100%;
-        background-attachment:scroll; 
+    .bg2 {
+        background-size: 100%;
+        background-attachment: scroll;
         background-position: center;
         background-repeat: no-repeat"
+
     }
 }
 
@@ -1074,7 +1070,6 @@ hr {
     .preloader_loader span:nth-child(4) {
       bottom: 0;
       right: 0; }
-
 .preloader_communique {
   color: white;
   font-family: 'Playfair Display', serif;
